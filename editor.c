@@ -2446,7 +2446,7 @@ void rundoc(void){
 	g_disable_break=0;
     stopPCG();
     
-    document("test.txt");
+    document("help.md");
 
 //	stopPCG();//システムフォントに戻す
     jresetPCG(1);
